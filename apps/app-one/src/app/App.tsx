@@ -11,7 +11,7 @@ export const App = () => {
         }}
       >
         <View>
-          <Text>Hello App Users</Text>
+          <Text>Hello App one Users</Text>
         </View>
       </SafeAreaView>
     </>
